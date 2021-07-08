@@ -1,3 +1,5 @@
+# simple-ml-microservice
+
 <include a CircleCI status badge, here>
 
 ## Project Overview
@@ -40,5 +42,3 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
-# simple-ml-microservice
-# simple-ml-microservice
